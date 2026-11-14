@@ -36,9 +36,6 @@ An independent backend demonstration for asynchronous Python code grading, with 
 ### [Order Management System](https://github.com/amirpvry/order-management-system)
 A separate public repository exploring backend application development and order-management workflows.
 
-### [Diesel Generator Research](https://github.com/amirpvry/diesel-generator)
-A public research-oriented software repository demonstrating work beyond conventional CRUD applications.
-
 ## Engineering interests
 
 - **Backend architecture:** clear service boundaries, robust APIs, concurrency, and failure handling
@@ -48,6 +45,6 @@ A public research-oriented software repository demonstrating work beyond convent
 
 ## Find my work
 
-[All repositories](https://github.com/amirpvry?tab=repositories) · [Backend grading project](https://github.com/amirpvry/ai-grading-portfolio) · [Order management](https://github.com/amirpvry/order-management-system) · [Research code](https://github.com/amirpvry/diesel-generator)
+[All repositories](https://github.com/amirpvry?tab=repositories) · [Backend grading project](https://github.com/amirpvry/ai-grading-portfolio) · [Order management](https://github.com/amirpvry/order-management-system)
 
 > My public repositories represent selected work. Other projects and client work may be private.
